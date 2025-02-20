@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7+XDgZr3u7PFNgycN0hzmUSMBo6Qy2Tfyv6qWoN+5QQ=",
+  "Source": "TestAPIadminPortal",
+  "BasePath": "_content/TestAPIadminPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

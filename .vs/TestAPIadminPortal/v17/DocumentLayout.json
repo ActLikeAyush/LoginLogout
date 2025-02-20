@@ -1,0 +1,594 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\diffui.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\diffui.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\privateroute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\privateroute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\models\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:models\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\style\\diffui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\style\\diffui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\migrations\\20250219110900_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:migrations\\20250219110900_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\models\\employeedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:models\\employeedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\reportwebvitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\reportwebvitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\component\\style\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\component\\style\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\setuptests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\setuptests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\react-frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:react-frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\testapiadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:testapiadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\20250214133008_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250214133008_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|c:\\users\\pc 2\\desktop\\newone\\testapiadminportal\\testapiadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A38CEC94-4AC8-4462-985C-FD3C56D0D698}|TestAPIadminPortal.csproj|solutionrelative:testapiadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiffUI.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\DiffUI.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\DiffUI.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\DiffUI.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\DiffUI.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T11:46:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:00:23.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:04:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\Entites\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entites\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\Entites\\Employee.cs",
+              "RelativeToolTip": "Models\\Entites\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:21:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Login.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Login.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Login.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Login.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T08:04:45.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\App.js",
+              "RelativeToolTip": "react-frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T08:17:00.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:40:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\Style.css",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Style\\Style.css",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\Style.css",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Style\\Style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T07:30:12.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Edit.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Edit.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Edit.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Edit.js",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T11:56:00.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Dashboard.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Dashboard.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Dashboard.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Dashboard.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T08:36:37.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:41:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrivateRoute.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\PrivateRoute.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\PrivateRoute.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\PrivateRoute.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\PrivateRoute.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T09:17:14.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T06:07:08.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiffUI.css",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\DiffUI.css",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Style\\DiffUI.css",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\DiffUI.css",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Style\\DiffUI.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T11:52:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Home.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Home.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Home.js",
+              "RelativeToolTip": "react-frontend\\src\\Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T13:06:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDataClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\EmployeeDataClass.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDataClass.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Models\\EmployeeDataClass.cs",
+              "RelativeToolTip": "Models\\EmployeeDataClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:59:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:16:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250219110900_newmigration.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\20250219110900_newmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250219110900_newmigration.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\20250219110900_newmigration.cs",
+              "RelativeToolTip": "Migrations\\20250219110900_newmigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:00.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Register.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Register.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Register.js",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Register.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T10:04:02.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Navbar.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Navbar.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Navbar.js",
+              "RelativeToolTip": "react-frontend\\src\\Navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T08:13:44.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\index.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\index.js",
+              "RelativeToolTip": "react-frontend\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T13:02:05.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "react-frontend\\src\\index.css",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\index.css",
+              "RelativeToolTip": "react-frontend\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T11:19:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "reportWebVitals.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\reportWebVitals.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\reportWebVitals.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\reportWebVitals.js",
+              "RelativeToolTip": "react-frontend\\src\\reportWebVitals.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T11:29:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\logo.svg",
+              "RelativeDocumentMoniker": "react-frontend\\src\\logo.svg",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\logo.svg",
+              "RelativeToolTip": "react-frontend\\src\\logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-18T11:29:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\Dashboard.css",
+              "RelativeDocumentMoniker": "react-frontend\\src\\Component\\Style\\Dashboard.css",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\Component\\Style\\Dashboard.css",
+              "RelativeToolTip": "react-frontend\\src\\Component\\Style\\Dashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T11:15:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:05:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\.gitignore",
+              "RelativeDocumentMoniker": "react-frontend\\.gitignore",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\.gitignore",
+              "RelativeToolTip": "react-frontend\\.gitignore",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-18T11:19:45.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "setupTests.js",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\setupTests.js",
+              "RelativeDocumentMoniker": "react-frontend\\src\\setupTests.js",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\setupTests.js",
+              "RelativeToolTip": "react-frontend\\src\\setupTests.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T11:19:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "react-frontend\\src\\App.css",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\react-frontend\\src\\App.css",
+              "RelativeToolTip": "react-frontend\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T09:56:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TestAPIadminPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\TestAPIadminPortal.csproj",
+              "RelativeDocumentMoniker": "TestAPIadminPortal.csproj",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\TestAPIadminPortal.csproj",
+              "RelativeToolTip": "TestAPIadminPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T06:03:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250214133008_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\20250214133008_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250214133008_initial migration.cs",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\Migrations\\20250214133008_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20250214133008_initial migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:30:08.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TestAPIadminPortal.http",
+              "DocumentMoniker": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\TestAPIadminPortal.http",
+              "RelativeDocumentMoniker": "TestAPIadminPortal.http",
+              "ToolTip": "C:\\Users\\PC 2\\Desktop\\newOne\\TestAPIadminPortal\\TestAPIadminPortal.http",
+              "RelativeToolTip": "TestAPIadminPortal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-14T06:07:09.989Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
