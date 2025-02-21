@@ -82,7 +82,7 @@
       },
       {
         "Name": "emp",
-        "Type": "TestAPIadminPortal.Models.Entites.Employee",
+        "Type": "TestAPIadminPortal.Models.editEmployee",
         "IsRequired": true
       }
     ],
@@ -108,6 +108,32 @@
     "ContainingType": "TestAPIadminPortal.Controllers.EmployeesController",
     "Method": "GetUserFromToken",
     "RelativePath": "api/Employees/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestAPIadminPortal.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Product/addProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "TestAPIadminPortal.Models.Entites.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestAPIadminPortal.Controllers.ProductController",
+    "Method": "showProduct",
+    "RelativePath": "api/Product/showProduct",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

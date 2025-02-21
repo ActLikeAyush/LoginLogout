@@ -172,3 +172,4 @@ C:\Users\PC 2\Desktop\newOne\TestAPIadminPortal\bin\Debug\net8.0\package.json
 C:\Users\PC 2\Desktop\newOne\TestAPIadminPortal\bin\Debug\net8.0\react-frontend\package-lock.json
 C:\Users\PC 2\Desktop\newOne\TestAPIadminPortal\bin\Debug\net8.0\react-frontend\package.json
 C:\Users\PC 2\Desktop\newOne\TestAPIadminPortal\bin\Debug\net8.0\react-frontend\public\manifest.json
+C:\Users\PC 2\Desktop\newOne\TestAPIadminPortal\obj\Debug\net8.0\TestAPIadminPortal.sourcelink.json

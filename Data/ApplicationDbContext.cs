@@ -10,5 +10,7 @@ namespace TestAPIadminPortal.Data
              
         }
         public DbSet<Employee> Employees { get; set; }
+
+        public DbSet<Product> Products { get; set; }
     }
 }

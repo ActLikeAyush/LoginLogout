@@ -174,7 +174,7 @@ namespace TestAPIadminPortal.Controllers
 
 
         [HttpPut("edit")]
-        public IActionResult UpdateEmployee(Guid id, Employee emp)
+        public IActionResult UpdateEmployee(Guid id, editEmployee emp)
         {
             //var updEmp = new Employee();
             var employee = dbcontext.Employees.Find(id);
@@ -203,7 +203,7 @@ namespace TestAPIadminPortal.Controllers
         //    }
 
         //    return Ok();
-        //}
+            //}
 
 
         [HttpPost("add")]
